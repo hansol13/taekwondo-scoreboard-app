@@ -2,7 +2,7 @@
 built by hansol13 using ReactJS and Material-UI
 
 ## Usage
-Available for usage [here](mhansolbaek.com/poomsae-score)
+Available for usage [here](http://mhansolbaek.com/poomsae-score)
 
 ## Installing
 Please message me or comment if you'd like to see the source code and install from there. 
